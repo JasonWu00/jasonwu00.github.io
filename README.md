@@ -2,7 +2,7 @@
 
 This directory will serve as a Table of Contents containing links to various other projects by me.
 
-=====
+-----
 
 ### Various projects
 
