@@ -20,4 +20,4 @@ Listed below are a number of projects I worked on or am working on, listed in th
 
 ### Certifications
 
-See the folder of the same name.
+[Click here to see all certifications.](https://github.com/JasonWu00/jasonwu00.github.io/tree/main/certifications)
