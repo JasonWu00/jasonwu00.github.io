@@ -16,7 +16,9 @@ Listed below are a number of projects I worked on or am working on, listed in th
 
 [Novorossiya: Analysis on the War in Ukraine](https://github.com/JasonWu00/ua-ru-vehicle-losses/): An analysis project to display the military developments of Russia's criminal aggression and its civilian impacts from 24 February 2022 to 18 October 2023.
 
-[Macaulay Research Assistantship: Identifying anomalies in datasets using deep learning ](https://github.com/JasonWu00/macaulay-anomaly-research): Research project with Professor Aftab ahmad of John Jay College to produce a machine learning model to identify body movements based on brain waves.
+[Macaulay Research Assistantship: Identifying anomalies in datasets using deep learning ](https://github.com/JasonWu00/macaulay-anomaly-research): Research project with Professor Aftab ahmad of John Jay College to produce a deep learning model to identify seizures using electrogram data.
+
+[NYC Transportation Analysis](https://public.tableau.com/app/profile/rida.sohail/viz/NYCTransportationAnalysis/TEAM): Tableau Dashboard built as part of the CSCI 49382 "Advanced Data Visualizations" class group project, providing analysis and context on various public transportation systems in New York City.
 
 ### Certifications
 
