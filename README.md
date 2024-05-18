@@ -20,6 +20,8 @@ Listed below are a number of projects I worked on or am working on, listed in th
 
 [NYC Transportation Analysis](https://public.tableau.com/app/profile/rida.sohail/viz/NYCTransportationAnalysis/TEAM): Tableau Dashboard built as part of the CSCI 49382 "Advanced Data Visualizations" class group project, providing analysis and context on various public transportation systems in New York City.
 
+[TasteBuds](https://github.com/csci-499-sp24/TasteBuds): Capstone course project to create a functional website, backend, and associated database system. I worked on creating API endpoints on the backend.
+
 ### Certifications
 
 [Click here to see all certifications.](https://github.com/JasonWu00/jasonwu00.github.io/tree/main/certifications)
