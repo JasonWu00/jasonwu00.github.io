@@ -1,6 +1,6 @@
 [GitHub profile](https://github.com/JasonWu00)
 
-[LinkedIn profile](https://www.linkedin.com/in/jason-wu-b47936271/)
+[LinkedIn profile](https://www.linkedin.com/in/jasonwu00/)
 
 This directory contains links to and short descriptions of a number of my projects.
 
