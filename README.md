@@ -10,7 +10,7 @@ Listed below are a number of projects I worked on or am working on, listed in th
 
 [Affordable Housing in NYC](https://jasonwu00.github.io/39542-research-project/): An optional project for the CSCI 39542 "Intro to Data Science" course that investigates trends and changes in affordable housing in New York City from 2011 to 2021.
 
-[Event Horizon / Endless Sky Mod](https://jasonwu00.github.io/Event-Horizon-ES-Mod/): A "modification" or "mod" for the mobile and PC game Event Horizon using assets from the open source PC game Endless Sky.
+[Event Horizon / Endless Sky Mod](https://jasonwu00.github.io/Event-Horizon-ES-Mod/): A "modification" or "mod" for the mobile and PC game Event Horizon using assets from the open source PC game Endless Sky. This is an ongo9ng project.
 
 [UA/RU losses scraper](https://github.com/JasonWu00/ua-ru-losses-scraper): Data scraping and cleaning code for the project listed below.
 
@@ -21,6 +21,8 @@ Listed below are a number of projects I worked on or am working on, listed in th
 [NYC Transportation Analysis](https://public.tableau.com/app/profile/rida.sohail/viz/NYCTransportationAnalysis/TEAM): Tableau Dashboard built as part of the CSCI 49382 "Advanced Data Visualizations" class group project, providing analysis and context on various public transportation systems in New York City.
 
 [TasteBuds](https://github.com/csci-499-sp24/TasteBuds): Capstone course project to create a functional website, backend, and associated database system. I worked on creating API endpoints on the backend.
+
+[Worldbuilding Machine Analysis](https://github.com/JasonWu00/worldbuilding-machine-analysis): An analysis project to apply sentiment analyzers, classifiers, and Large Language Models to self-generated text corpuses to figure out what kind of a "vibe" my writing gives off, with plans to also create example AI agents to understand my work.
 
 ### Certifications
 
