@@ -22,7 +22,7 @@ Listed below are a number of projects I worked on or am working on, listed in th
 
 [TasteBuds](https://github.com/csci-499-sp24/TasteBuds): Capstone course project to create a functional website, backend, and associated database system. I worked on creating API endpoints on the backend.
 
-[Worldbuilding Machine Analysis](https://github.com/JasonWu00/worldbuilding-machine-analysis): An analysis project to apply sentiment analyzers, classifiers, and Large Language Models to self-generated text corpuses to figure out what kind of a "vibe" my writing gives off, with plans to also create example AI agents to understand my work.
+[Worldbuilding Machine Analysis](https://github.com/JasonWu00/worldbuilding-machine-analysis): An analysis project to apply sentiment analyzers, classifiers, and Large Language Models to self-generated text corpuses to figure out what kind of a "vibe" my writing gives off, with plans to also create example AI agents to understand my work. This is a project in progress.
 
 ### Certifications
 
