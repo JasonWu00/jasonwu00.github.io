@@ -20,9 +20,9 @@ Listed below are a number of projects I worked on or am working on, listed in th
 
 [NYC Transportation Analysis](https://public.tableau.com/app/profile/rida.sohail/viz/NYCTransportationAnalysis/TEAM): Tableau Dashboard built as part of the CSCI 49382 "Advanced Data Visualizations" class group project, providing analysis and context on various public transportation systems in New York City.
 
-[TasteBuds](https://github.com/csci-499-sp24/TasteBuds): Capstone course project to create a functional website, backend, and associated database system. I worked on creating API endpoints on the backend.
+[TasteBuds](https://github.com/csci-499-sp24/TasteBuds): Capstone course project to create a functional website, backend, and associated database system. I worked on creating API endpoints on the backend to connect the website to a PostgreSQL relational database hosted on Amazon Web Services.
 
-[Worldbuilding Machine Analysis](https://github.com/JasonWu00/worldbuilding-machine-analysis): An analysis project to apply sentiment analyzers, classifiers, and Large Language Models to self-generated text corpuses to figure out what kind of a "vibe" my writing gives off, with plans to also create example AI agents to understand my work. This is a project in progress.
+[Worldbuilding Machine Analysis](https://github.com/JasonWu00/worldbuilding-machine-analysis): An analysis project to apply sentiment analyzers, classifiers, and Large Language Models to self-generated text corpuses to figure out what kind of a "vibe" my writing gives off, with plans to also create example AI agents to understand my work. Currently put on hold while I reconsider portions of the project I have yet to carry out.
 
 ### Certifications
 
